@@ -8,6 +8,6 @@ import cucumber.api.junit.Cucumber;
         ,glue={"stepDefinition"}
 )
 
-public class TestRunner {
+public class TSDRunner {
 
 }
